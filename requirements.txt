@@ -1,0 +1,9 @@
+# Copiloto de Cobrança — text-to-SQL com LangGraph + Claude
+# Frameworks de GenAI (o foco do portfólio)
+langgraph>=1.0
+langchain-anthropic>=1.0
+langchain-core>=1.0
+anthropic>=1.0
+# Validação de schema (SQL draft estruturado)
+pydantic>=2.0
+# (sqlite3 e demais utilitários vêm da stdlib)
